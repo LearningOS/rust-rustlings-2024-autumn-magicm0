@@ -1,0 +1,14 @@
+﻿Cargo run list => provide list of exercises with pending or done state
+
+Cargo run watch => check to do
+
+clear => 清屏
+
+cargo run hint struct1 => 提供帮助
+
+
+git config --global user.email "tianyusun2005@163.com"
+git config --global user.name "sty"
+git add *
+git commit -m "solve struct1" => 提交
+git push
